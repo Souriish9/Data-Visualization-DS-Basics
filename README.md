@@ -5,3 +5,5 @@
 - Histogram
 - Bar Chart
 - Box Plot
+- Scatter plots
+- Sub Plots
